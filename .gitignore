@@ -1,0 +1,11 @@
+target/
+!.mvn/wrapper/maven-wrapper.jar
+/target/
+.idea/
+*.iml
+*.iws
+.project
+.settings
+.classpath
+bin/
+.DS_Store
